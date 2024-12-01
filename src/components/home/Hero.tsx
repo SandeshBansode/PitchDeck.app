@@ -1,6 +1,3 @@
-export const Hero = () => {
-    return <div>Hero Component</div>;
-};
 
 const Hero = () => {
     return <div>Hero Component</div>;
